@@ -62,10 +62,10 @@ a {
     border-radius: 50%;
 }
 
-/* .header .logo-header {
-    margin: 15px;
+.header .logo-header {
+    /* margin: 15px; */
     position: relative;
-} */
+}
 
 .header .logo-header:hover {
     animation: ring 0.5s ease-in-out;
